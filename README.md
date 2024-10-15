@@ -11,7 +11,7 @@ Desenvolvedor Full-Stack
 
 ![Euclides GitHub stats](https://github-readme-stats.vercel.app/api?username=tuzolanacalueto&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuzolanacalueto&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuzolanacalueto&layout=compact)
 
 ## Tecnologias que eu uso no meu dia 
 
